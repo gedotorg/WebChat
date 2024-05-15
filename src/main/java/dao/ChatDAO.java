@@ -2,8 +2,6 @@ package dao;
 
 import exception.DaoException;
 import model.Chat;
-import model.Message;
-import model.User;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
